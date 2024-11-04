@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "392446854638",
+    "project_id": "goal123-new-staging",
+    "storage_bucket": "goal123-new-staging.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:392446854638:android:12cf40004eedd9ed7b7aff",
+        "android_client_info": {
+          "package_name": "com.goal.staging"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "392446854638-b05uvr2vbbv5k7u0paebq3b13jts3cv8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDgbDfFboJIQcMKZrpi1diRNaM6G68OdC0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "392446854638-b05uvr2vbbv5k7u0paebq3b13jts3cv8.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "392446854638-gelbprrgd88t9d3b5lkevv7okcagb746.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.goal.staging"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

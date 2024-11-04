@@ -1,0 +1,6 @@
+{
+  "name": "gomath",
+  "displayName": "gomath",
+  "expo": {},
+  "plugins": ["@notifee/react-native"]
+}

@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "425634801540",
+    "project_id": "times-table-a9e4e",
+    "storage_bucket": "times-table-a9e4e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:425634801540:android:16978b365bbe16bcc11fd1",
+        "android_client_info": {
+          "package_name": "com.goal.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "425634801540-bk06th1onm0ul88qbojoc2haokpuvbq2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDNmCrg9ypkgVfOWV5sCZs1_CcrqRiRPGQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "425634801540-bk06th1onm0ul88qbojoc2haokpuvbq2.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "425634801540-1on9p3f18kjd8s30g2v5ireq66bdkfvf.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.timestable.app"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:425634801540:android:8ce0c206a4acf8d8c11fd1",
+        "android_client_info": {
+          "package_name": "com.goal.apps"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "425634801540-bk06th1onm0ul88qbojoc2haokpuvbq2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDNmCrg9ypkgVfOWV5sCZs1_CcrqRiRPGQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "425634801540-bk06th1onm0ul88qbojoc2haokpuvbq2.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "425634801540-1on9p3f18kjd8s30g2v5ireq66bdkfvf.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.timestable.app"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

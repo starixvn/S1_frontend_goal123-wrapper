@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Goal123 Staging</string>
+    <string moduleConfig="true" name="CodePushDeploymentKey">ll-MUjSA1fdvB_4vTdkGNuJHCfpcZHrz_TTI5</string>
+</resources>

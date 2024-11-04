@@ -1,0 +1,14 @@
+{
+  "common": {
+    "loading": "Đang khởi động ứng dụng"
+  },
+  "forceDownload": {
+    "download": "Tải về",
+    "message": "Vui lòng tải bản mới với những nâng cấp sau:",
+    "title": "Cập nhật phiên bản mới"
+  },
+  "splashScreen": {
+    "dear": "Quý khách hàng thân mến,",
+    "note": "Nếu quý khách gặp phải sự cố về ứng dụng hoặc không truy cập được ứng dụng, vui lòng cài đặt lại hoặc có thể liên hệ với bộ phận Hỗ trợ trực tuyến 24/7 của chúng tôi. Cảm ơn quý khách!"
+  }
+}

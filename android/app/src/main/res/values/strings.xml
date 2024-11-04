@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Goal123</string>
+    <string moduleConfig="true" name="CodePushDeploymentKey">BQ9VZo8BHetwiql7MTHvmdpl3rkohxMtWbXIB</string>
+</resources>
